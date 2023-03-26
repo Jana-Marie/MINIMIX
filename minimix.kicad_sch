@@ -6,9 +6,9 @@
 
   (title_block
     (title "MINIMIX")
-    (date "2023-03-21")
-    (rev "v1.0.0")
-    (company "Jan Marie Hemsing")
+    (date "2023-03-26")
+    (rev "v1.0.1")
+    (company "Jana Marie Hemsing")
   )
 
   (lib_symbols
